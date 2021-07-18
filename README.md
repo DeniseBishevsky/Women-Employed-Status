@@ -1,7 +1,7 @@
 # Women-Employed-Status
 Data Analysis
 
-![cover](https://github.com/DeniseBishevsky/Hotel-Booking-Cancellation-Prediction/blob/main/image.png)
+![cover](https://github.com/DeniseBishevsky/Women-Employed-Status/blob/main/img.JPG)
 
 Details:<br>
 Course Name: Data Analysis<br>
