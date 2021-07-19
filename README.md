@@ -1,5 +1,7 @@
 # Women-Employed-Status
 Data Analysis
+You can View the final project here:
+https://denisebishevsky.github.io/Women-Employed-Status/Women-Employed-Status.html
 
 Details:<br>
 Course Name: Data Analysis<br>
